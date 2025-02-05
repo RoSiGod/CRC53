@@ -1,5 +1,4 @@
 pyvista
-stpyvista
 numpy
 pandas
 requests
