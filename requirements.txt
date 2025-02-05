@@ -3,4 +3,3 @@ stpyvista
 numpy
 pandas
 requests
-math
